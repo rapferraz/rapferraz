@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧑‍💻 Trainee Java Developer <br><br>📚 Information Systems Student</p>
+<p align="left">🧑‍💻 Trainee Java Developer <br><br>📚 Analysis and System Development Student</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Information Systems Student at ESAMC, passionate about technology.<br><br>I have knowledge in the following technologies: <br><br>⚬ Java<br>⚬ JavaScript<br>⚬ HTML5<br>⚬ CSS3<br>⚬ Git<br><br>Looking for my first opportunity of internship position in the  technology area. I have leadership spirit and ease of working in groups. I am  disciplined, focused, dedicated and understanding.<br><br>I love new challenges and I want to grow professionaly every single day.</p>
+<p align="left">Analysis and System Development student at UNIBR, passionate about technology.<br><br>I have knowledge in the following technologies: <br><br>⚬ Java<br>⚬ JavaScript<br>⚬ HTML5<br>⚬ CSS3<br>⚬ Git<br><br>Looking for my first opportunity of internship position in the  technology area. I have leadership spirit and ease of working in groups. I am  disciplined, focused, dedicated and understanding.<br><br>I love new challenges and I want to grow professionaly every single day.</p>
 
 ###
 
